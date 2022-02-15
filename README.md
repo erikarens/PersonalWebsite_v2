@@ -17,6 +17,7 @@
 
 <h2>Future Updated</h2>
 
+- [ ] Back to Top Button
 - [ ] Project showcase section
 - [ ] Ongoing updates of my milestones
 
