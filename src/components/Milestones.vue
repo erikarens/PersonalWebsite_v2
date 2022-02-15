@@ -5,7 +5,7 @@ export default {};
 <template>
   <div class="milestone-container">
     <h2 class="secondary-m normal f45 center mobile-text">
-      <span class="heading-dot">.</span>Milestones
+      <span class="heading-dot">.</span>Milestones <span class="mobile-line milestone"></span>
     </h2>
 
     <div class="timeline">
