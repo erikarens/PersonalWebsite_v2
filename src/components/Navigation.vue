@@ -1,5 +1,5 @@
 <script lang="ts">
-import { defineComponent } from "vue";
+import { defineComponent } from 'vue';
 
 export default defineComponent({
   data() {
@@ -18,72 +18,46 @@ export default defineComponent({
 <template>
   <nav>
     <RouterLink to="/">
-      <span class="heading-dot">.</span
-      ><span class="secondary-el normal f20">Home()</span>
+      <span class="heading-dot">.</span><span class="secondary-el normal f20">Home()</span>
     </RouterLink>
     <RouterLink to="/#about">
-      <span class="heading-dot">.</span
-      ><span class="secondary-el normal f20">About()</span>
+      <span class="heading-dot">.</span><span class="secondary-el normal f20">About()</span>
     </RouterLink>
     <RouterLink to="/#milestones">
-      <span class="heading-dot">.</span
-      ><span class="secondary-el normal f20">Milestones()</span>
+      <span class="heading-dot">.</span><span class="secondary-el normal f20">Milestones()</span>
     </RouterLink>
     <RouterLink to="/#contact">
-      <span class="heading-dot">.</span
-      ><span class="secondary-el normal f20">Contact()</span>
+      <span class="heading-dot">.</span><span class="secondary-el normal f20">Contact()</span>
     </RouterLink>
-    <RouterLink to="/resume"
-      ><span class="secondary-l f20 cta">Resume</span></RouterLink
-    >
+    <RouterLink to="/resume"><span class="secondary-l f20 cta">Resume</span></RouterLink>
   </nav>
-  <div
-    id="hamburger-icon"
-    v-bind:class="{ open: isOpen }"
-    @click="mobileMenu()"
-  >
+  <div id="hamburger-icon" v-bind:class="{ open: isOpen }" @click="mobileMenu()">
     <div class="icon bar1"></div>
     <div class="icon bar2"></div>
     <div class="icon bar3"></div>
     <div class="mobile-menu">
       <RouterLink to="/" class="mobile-link">
-        <span class="heading-dot">.</span
-        ><span class="secondary-el normal f40">Home()</span>
+        <span class="heading-dot">.</span><span class="secondary-el normal f40">Home()</span>
       </RouterLink>
       <RouterLink to="/#about" class="mobile-link">
-        <span class="heading-dot">.</span
-        ><span class="secondary-el normal f40">About()</span>
+        <span class="heading-dot">.</span><span class="secondary-el normal f40">About()</span>
       </RouterLink>
       <RouterLink to="/#milestones" class="mobile-link">
-        <span class="heading-dot">.</span
-        ><span class="secondary-el normal f40">Milestones()</span>
+        <span class="heading-dot">.</span><span class="secondary-el normal f40">Milestones()</span>
       </RouterLink>
       <RouterLink to="/#contact" class="mobile-link">
-        <span class="heading-dot">.</span
-        ><span class="secondary-el normal f40">Contact()</span>
+        <span class="heading-dot">.</span><span class="secondary-el normal f40">Contact()</span>
       </RouterLink>
-      <RouterLink to="/resume" class="mobile-link"
-        ><span class="secondary-l f40 cta">Resume</span></RouterLink
-      >
+      <RouterLink to="/resume" class="mobile-link"><span class="secondary-l f40 cta">Resume</span></RouterLink>
       <div class="social-container">
         <a href="https://github.com/erikarens" target="_blank" class="social">
-          <img
-            src="../assets/images/github-sign.png"
-            alt="Github Profil Erik Arens"
-            width="40"
-            class="github"
-          />
+          <img src="../assets/images/github-sign.png" alt="Github Profil Erik Arens" width="40" class="github" />
         </a>
-        <a
-          href="https://www.linkedin.com/in/erik-arens-a48865195/"
-          target="_blank"
-          class="social"
-        >
-          <img
-            src="../assets/images/linkedin.png"
-            alt="LinkedIn Profil Erik Arens"
-            width="40"
-          />
+        <a href="https://www.linkedin.com/in/erik-arens-a48865195/" target="_blank" class="social">
+          <img src="../assets/images/linkedin.png" alt="LinkedIn Profil Erik Arens" width="40" />
+        </a>
+        <a href="https://netzhero.de" target="_blank" class="social">
+          <img src="../assets/images/netzhero.png" alt="Netzhero Logo Erik Arens" width="40" class="netzhero-logo" />
         </a>
       </div>
     </div>
@@ -159,6 +133,10 @@ nav span:hover {
 
 .mobile-link {
   margin: 15px 0;
+}
+
+.netzhero-logo {
+  border-radius: 5px;
 }
 
 @media only screen and (max-width: 900px) {

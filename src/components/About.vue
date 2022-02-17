@@ -16,9 +16,9 @@ export default {};
 
     <br />
     <p class="primary-l accent f20 center mobile-text">
-      Due to my side hustle "Netzhero" I already had a few projects where I had to work in a team and communicate with
-      the Back-End of a Web-Application. Therefore, I know how to combine my obtained skills to bring value to a
-      project.
+      Due to my side hustle <a href="https://netzhero.de" target="_blank" class="normal-link">Netzhero</a> I already had
+      a few projects where I had to work in a team and communicate with the Back-End of a Web-Application. Therefore, I
+      know how to combine my obtained skills to bring value to a project.
     </p>
     <div class="tech-stack-container">
       <img src="../assets/images/js.png" alt="Tech Stack JavaScript" class="stack" width="135" height="135" />
@@ -50,6 +50,17 @@ export default {};
   margin-right: auto;
   margin-top: 25px;
   margin-bottom: 25px;
+}
+
+a.normal-link {
+  color: #c6c8cd;
+  font-family: primary-r;
+  transition: all 0.4s;
+  display: inline-block;
+}
+a.normal-link:hover {
+  transition: all 0.3s ease-out;
+  transform: scale(1.1);
 }
 
 @media screen and (max-width: 600px) {

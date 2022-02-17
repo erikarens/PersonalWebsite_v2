@@ -4,28 +4,14 @@ export default {};
 
 <template>
   <div class="sidenav">
-    <a
-      href="https://github.com/erikarens"
-      target="_blank"
-      class="sidenav-icons"
-    >
-      <img
-        src="../assets/images/github-sign.png"
-        alt="Github Profil Erik Arens"
-        width="40"
-        class="github"
-      />
+    <a href="https://github.com/erikarens" target="_blank" class="sidenav-icons">
+      <img src="../assets/images/github-sign.png" alt="Github Profil Erik Arens" width="40" class="github" />
     </a>
-    <a
-      href="https://www.linkedin.com/in/erik-arens-a48865195/"
-      target="_blank"
-      class="sidenav-icons"
-    >
-      <img
-        src="../assets/images/linkedin.png"
-        alt="LinkedIn Profil Erik Arens"
-        width="40"
-      />
+    <a href="https://www.linkedin.com/in/erik-arens-a48865195/" target="_blank" class="sidenav-icons">
+      <img src="../assets/images/linkedin.png" alt="LinkedIn Profil Erik Arens" width="40" />
+    </a>
+    <a href="https://netzhero.de" target="_blank" class="sidenav-icons">
+      <img src="../assets/images/netzhero.png" alt="Netzhero Logo Erik Arens" width="40" class="netzhero-logo" />
     </a>
   </div>
 </template>
@@ -58,6 +44,10 @@ export default {};
   transform: scale(1.1);
 }
 
+.netzhero-logo {
+  border-radius: 5px;
+}
+
 @media screen and (max-width: 600px) {
   .sidenav {
     display: none;
@@ -65,7 +55,6 @@ export default {};
 }
 
 .github {
-  filter: invert(99%) sepia(99%) saturate(0%) hue-rotate(6deg) brightness(112%)
-    contrast(100%);
+  filter: invert(99%) sepia(99%) saturate(0%) hue-rotate(6deg) brightness(112%) contrast(100%);
 }
 </style>
