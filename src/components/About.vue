@@ -9,19 +9,44 @@ export default {};
     </h2>
     <img src="../assets/images/erikarens.jpg" alt="" class="personal-img" />
     <p class="primary-l accent f20 center mobile-text">
-      Hello, I’m Erik Arens a frontend developer from Germany. I always loved to create my own things and to solve
-      problems, so I decided to focus on web development. I think that web development is a core feature of nearly any
-      industry.
+      Software Developer with 3+ years of experience specializing in Angular,
+      React Native, and ASP.Net. I thrive on tackling challenging projects and
+      leveraging my skills to create innovative solutions. While most of my work
+      has been on private projects, I have gained valuable expertise in building
+      business applications.
     </p>
 
     <br />
     <p class="primary-l accent f20 center mobile-text">
-      Due to my side hustle <a href="https://netzhero.de" target="_blank" class="normal-link">Netzhero</a> I already had
-      a few projects where I had to work in a team and communicate with the Back-End of a Web-Application. Therefore, I
-      know how to combine my obtained skills to bring value to a project.
+      My goal is to become a specialist in Software Engineering and contribute
+      to significant projects that can shape the future. I am particularly
+      interested in the exciting field of Machine Learning and its potential to
+      revolutionize industries.
     </p>
+
+    <br />
+    <p class="primary-l accent f20 center mobile-text">
+      As a fast learner, I quickly adapt to new technologies and methodologies,
+      allowing me to stay ahead in the ever-evolving software development
+      landscape. I am known for my collaborative approach, working effectively
+      within teams to achieve common goals. My enthusiasm and motivation drive
+      me to deliver high-quality results.
+    </p>
+
+    <br />
+    <p class="primary-l accent f20 center mobile-text">
+      Let’s connect and explore opportunities to collaborate on exciting
+      projects that push the boundaries of software development!
+    </p>
+
     <div class="tech-stack-container">
-      <img src="../assets/images/js.png" alt="Tech Stack JavaScript" class="stack" width="135" height="135" />
+      <img
+        src="../assets/images/js.png"
+        alt="Tech Stack JavaScript"
+        class="stack"
+        width="135"
+        height="135"
+      />
       <img
         src="../assets/images/angular.png"
         alt="Tech Stack Angular 2+"
@@ -29,7 +54,13 @@ export default {};
         width="250"
         height="250"
       />
-      <img src="../assets/images/ts.png" alt="Tech Stack TypeScript" class="stack" width="135" height="135" />
+      <img
+        src="../assets/images/ts.png"
+        alt="Tech Stack TypeScript"
+        class="stack"
+        width="135"
+        height="135"
+      />
     </div>
   </div>
 </template>

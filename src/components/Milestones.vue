@@ -10,6 +10,26 @@ export default {};
 
     <div class="timeline">
       <div class="container left">
+        <h2 class="secondary-l accent f20 timestamp">Until today</h2>
+        <div class="content">
+          <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>EAT_CODE_SLEEP_REPEAT</h3>
+          <p class="primary-l accent f20">
+            To this day, I look forward to challenging projects and use my skills to create innovative solutions.
+          </p>
+        </div>
+      </div>
+
+      <div class="container right">
+        <h2 class="secondary-l accent f20 timestamp">August, 2022</h2>
+        <div class="content project">
+          <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>New Position</h3>
+          <p class="primary-l accent f20">
+            Started a new job at Werkdigital as a software developer. Specialized in working with Angular and React Native.
+          </p>
+        </div>
+      </div>
+
+      <div class="container left">
         <h2 class="secondary-l accent f20 timestamp">January, 2022</h2>
         <div class="content project">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Customer Map</h3>
