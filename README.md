@@ -1,8 +1,8 @@
 <h1>Personal Website - Version Two</h1>
 
 <p>
-  This is my Personal Website to showcase some of my work.<br>
-  I wanted it to be easy to maintain and scalable, so I choose to code it with Vuejs 3.
+  This is my Personal Website to showcase my personal and professional development.<br>
+  I wanted it to be easy to maintain, so I choose to code it with Vuejs 3.
 </p>
 
 [Personal Webiste Live Preview](https://erikarens.de/)
@@ -15,14 +15,8 @@
   - CSS <br>
 </p>
 
-<h2>Future Updated</h2>
-
-- [ ] Back to Top Button
-- [ ] Project showcase section
-- [ ] Ongoing updates of my milestones
-
 <h2>Author</h2>
 
-[Profile](https://github.com/erikarens 'Erik Arens GitHub') <br>
-[Email](mailto:erikarens@netzhero.de 'Say hello!') <br>
-[Website](https://erikarens.de 'Personal Website') <br>
+[Profile](https://github.com/erikarens "Erik Arens GitHub") <br>
+[Email](mailto:erik.arens@netzhero.de "Say hello!") <br>
+[Website](https://erikarens.de "Personal Website") <br>
