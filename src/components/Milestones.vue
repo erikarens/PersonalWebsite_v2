@@ -36,9 +36,6 @@ export default {};
           <p class="primary-l accent f20">
             An application that facilitates the planning of field service trips. Allows customer data to be adjusted or updated and gives the user the option of filtering customers according to certain criteria. This makes it easier to plan the next field service trip.
           </p>
-          <a href="https://github.com/erikarens/CustomerMap" target="_blank" class="project-link"
-            >Customer Map Github</a
-          >
         </div>
       </div>
 
@@ -70,7 +67,6 @@ export default {};
           <p class="primary-l accent f20">
             A product calculator to help customers find the right product for their needs. With a white label functionality to make it usable for wholesalers/customers and embed it on their websites.
           </p>
-          <a href="https://github.com/erikarens/produktfinder" target="_blank" class="project-link">Produktfinder</a>
         </div>
       </div>
 
