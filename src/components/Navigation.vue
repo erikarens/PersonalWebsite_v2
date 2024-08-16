@@ -29,7 +29,7 @@ export default defineComponent({
     <RouterLink to="/#contact">
       <span class="heading-dot">.</span><span class="secondary-el normal f20">Contact()</span>
     </RouterLink>
-    <RouterLink to="/resume"><span class="secondary-l f20 cta">Resume</span></RouterLink>
+    <!-- <RouterLink to="/resume"><span class="secondary-l f20 cta">Resume</span></RouterLink> -->
   </nav>
   <div id="hamburger-icon" v-bind:class="{ open: isOpen }" @click="mobileMenu()">
     <div class="icon bar1"></div>

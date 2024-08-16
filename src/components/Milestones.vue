@@ -14,7 +14,7 @@ export default {};
         <div class="content">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>EAT_CODE_SLEEP_REPEAT</h3>
           <p class="primary-l accent f20">
-            To this day, I look forward to challenging projects and use my skills to create innovative solutions.
+            I like reading about software engineering and want to understand how things work under the hood. I try to do that all day long.
           </p>
         </div>
       </div>
@@ -24,7 +24,7 @@ export default {};
         <div class="content project">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>New Position</h3>
           <p class="primary-l accent f20">
-            Started a new job at Werkdigital as a software developer. Specialized in working with Angular and React Native.
+            Started a new job at Werkdigital as a software developer. Specialized in working with .Net, Angular and React Native.
           </p>
         </div>
       </div>
@@ -34,7 +34,7 @@ export default {};
         <div class="content project">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Customer Map</h3>
           <p class="primary-l accent f20">
-            A map that hold all kind of information about customers to plan routes for their sales team.
+            An application that facilitates the planning of field service trips. Allows customer data to be adjusted or updated and gives the user the option of filtering customers according to certain criteria. This makes it easier to plan the next field service trip.
           </p>
           <a href="https://github.com/erikarens/CustomerMap" target="_blank" class="project-link"
             >Customer Map Github</a
@@ -58,8 +58,7 @@ export default {};
         <div class="content">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Advanced Training</h3>
           <p class="primary-l accent f20">
-            Finished my advanced training with a grade of 1,2 and acquired a diploma with the title "Certified
-            Web-Developer" (Geprüfter Web-Entwickler)
+            Finished my advanced training with a grade of 1,2 and acquired a diploma with the title "Certified Web-Developer" (Geprüfter Web-Entwickler)
           </p>
         </div>
       </div>
@@ -69,7 +68,7 @@ export default {};
         <div class="content project">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Produktfinder</h3>
           <p class="primary-l accent f20">
-            A product calculator, to help the customer find the right product for his needs.
+            A product calculator to help customers find the right product for their needs. With a white label functionality to make it usable for wholesalers/customers and embed it on their websites.
           </p>
           <a href="https://github.com/erikarens/produktfinder" target="_blank" class="project-link">Produktfinder</a>
         </div>
@@ -91,7 +90,7 @@ export default {};
         <div class="content">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Founded Netzhero</h3>
           <p class="primary-l accent f20">
-            Founded Netzhero as a side hustle to pursue my passion (Web-Development Business)
+            Founded Netzhero as a side hustle to pursue my passion for software development
           </p>
           <a href="https://netzhero.de" target="_blank" class="project-link">Netzhero</a>
         </div>

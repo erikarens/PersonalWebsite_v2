@@ -8,10 +8,7 @@ export default {};
     <h1 class="lh-n normal primary-b f60">Erik Arens</h1>
     <h2 class="lh-n accent primary-b f60">I'm a Web-Developer.</h2>
     <p class="primary-l accent f20">
-      I am a Web-Developer from Germany. What I love most about programming is
-      that you never stop learning and always get the chance to improve
-      yourself. What fascinates me about software engineering is that you can
-      turn any complex idea into reality.
+      I’m a Software Developer with a focus on .NET, Angular, and React Native. I enjoy working on challenging projects and using my skills to develop practical solutions. Most of my experience comes from private projects, where I’ve focused on building business applications.
     </p>
     <div class="cta-container">
       <a href="/#about" class="secondary-l cta f20 cta-spacing-rigth"

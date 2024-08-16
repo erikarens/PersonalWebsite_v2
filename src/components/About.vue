@@ -9,28 +9,17 @@ export default {};
     </h2>
     <img src="../assets/images/erikarens.jpg" alt="" class="personal-img" />
     <p class="primary-l accent f20 center mobile-text">
-      Software Developer with 3+ years of experience specializing in Angular,
-      React Native, and ASP.Net. I thrive on tackling challenging projects and
-      leveraging my skills to create innovative solutions. While most of my work
-      has been on private projects, I have gained valuable expertise in building
-      business applications.
+      I’m a Software Developer with a passion for solving complex problems and building practical solutions. My expertise spans across .NET, Angular, React Native, and TypeScript, with experience in both front-end and back-end development. I’ve worked extensively with frameworks like Entity Framework Core and NestJS, and I’m comfortable with styling tools like Bootstrap and Tailwind CSS.
     </p>
 
     <br />
     <p class="primary-l accent f20 center mobile-text">
-      My goal is to become a specialist in Software Engineering and contribute
-      to significant projects that can shape the future. I am particularly
-      interested in the exciting field of Machine Learning and its potential to
-      revolutionize industries.
+      Much of my experience comes from developing business applications through private projects, where I’ve enjoyed digging deep into code to optimize performance and create efficient solutions. I’m also familiar with tools like TypeORM, Coolify, and managing VPS.
     </p>
 
     <br />
     <p class="primary-l accent f20 center mobile-text">
-      As a fast learner, I quickly adapt to new technologies and methodologies,
-      allowing me to stay ahead in the ever-evolving software development
-      landscape. I am known for my collaborative approach, working effectively
-      within teams to achieve common goals. My enthusiasm and motivation drive
-      me to deliver high-quality results.
+      I’m always eager to learn and excited about tackling new challenges, whether it’s exploring new technologies or refining my skills in existing ones
     </p>
 
     <br />
@@ -39,29 +28,29 @@ export default {};
       projects that push the boundaries of software development!
     </p>
 
-    <div class="tech-stack-container">
-      <img
-        src="../assets/images/js.png"
-        alt="Tech Stack JavaScript"
-        class="stack"
-        width="135"
-        height="135"
-      />
-      <img
-        src="../assets/images/angular.png"
-        alt="Tech Stack Angular 2+"
-        class="stack-extra"
-        width="250"
-        height="250"
-      />
-      <img
-        src="../assets/images/ts.png"
-        alt="Tech Stack TypeScript"
-        class="stack"
-        width="135"
-        height="135"
-      />
-    </div>
+    <!-- <div class="tech-stack-container"> -->
+    <!--   <img -->
+    <!--     src="../assets/images/js.png" -->
+    <!--     alt="Tech Stack JavaScript" -->
+    <!--     class="stack" -->
+    <!--     width="135" -->
+    <!--     height="135" -->
+    <!--   /> -->
+    <!--   <img -->
+    <!--     src="../assets/images/angular.png" -->
+    <!--     alt="Tech Stack Angular 2+" -->
+    <!--     class="stack-extra" -->
+    <!--     width="250" -->
+    <!--     height="250" -->
+    <!--   /> -->
+    <!--   <img -->
+    <!--     src="../assets/images/ts.png" -->
+    <!--     alt="Tech Stack TypeScript" -->
+    <!--     class="stack" -->
+    <!--     width="135" -->
+    <!--     height="135" -->
+    <!--   /> -->
+    <!-- </div> -->
   </div>
 </template>
 
