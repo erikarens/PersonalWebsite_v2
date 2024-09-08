@@ -12,7 +12,7 @@ export default {};
       <div class="container left">
         <h2 class="secondary-l accent f20 timestamp">Until today</h2>
         <div class="content">
-          <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Ear Code Sleep Repeat</h3>
+          <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Eat Code Sleep Repeat</h3>
           <p class="primary-l accent f20">
             I like reading about software engineering and want to understand how things work under the hood. I try to do
             that all day long.
