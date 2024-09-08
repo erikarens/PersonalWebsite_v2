@@ -11,9 +11,7 @@ export default {};
       Are you interested? Feel free to get in touch with me.
     </p>
     <div class="cta-container">
-      <a href="mailto:erik.arens@netzhero.de" class="secondary-l cta f20"
-        >Mail Erik</a
-      >
+      <a href="mailto:erikarens@netzhero.de" class="secondary-l cta f20">Mail Erik</a>
     </div>
   </div>
 </template>

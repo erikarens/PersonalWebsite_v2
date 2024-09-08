@@ -12,9 +12,10 @@ export default {};
       <div class="container left">
         <h2 class="secondary-l accent f20 timestamp">Until today</h2>
         <div class="content">
-          <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>EAT_CODE_SLEEP_REPEAT</h3>
+          <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Ear Code Sleep Repeat</h3>
           <p class="primary-l accent f20">
-            I like reading about software engineering and want to understand how things work under the hood. I try to do that all day long.
+            I like reading about software engineering and want to understand how things work under the hood. I try to do
+            that all day long.
           </p>
         </div>
       </div>
@@ -24,7 +25,8 @@ export default {};
         <div class="content project">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>New Position</h3>
           <p class="primary-l accent f20">
-            Started a new job at Werkdigital as a software developer. Specialized in working with .Net, Angular and React Native.
+            Started a new job at Werkdigital as a software developer. Specialized in working with .Net, Angular and
+            React Native.
           </p>
         </div>
       </div>
@@ -34,7 +36,9 @@ export default {};
         <div class="content project">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Customer Map</h3>
           <p class="primary-l accent f20">
-            An application that facilitates the planning of field service trips. Allows customer data to be adjusted or updated and gives the user the option of filtering customers according to certain criteria. This makes it easier to plan the next field service trip.
+            An application that facilitates the planning of field service trips. Allows customer data to be adjusted or
+            updated and gives the user the option of filtering customers according to certain criteria. This makes it
+            easier to plan the next field service trip.
           </p>
         </div>
       </div>
@@ -55,7 +59,8 @@ export default {};
         <div class="content">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Advanced Training</h3>
           <p class="primary-l accent f20">
-            Finished my advanced training with a grade of 1,2 and acquired a diploma with the title "Certified Web-Developer" (Geprüfter Web-Entwickler)
+            Finished my advanced training with a grade of 1,2 and acquired a diploma with the title "Certified
+            Web-Developer" (Geprüfter Web-Entwickler)
           </p>
         </div>
       </div>
@@ -65,7 +70,8 @@ export default {};
         <div class="content project">
           <h3 class="secondary-m normal f30 mobile-heading"><span class="heading-dot">.</span>Produktfinder</h3>
           <p class="primary-l accent f20">
-            A product calculator to help customers find the right product for their needs. With a white label functionality to make it usable for wholesalers/customers and embed it on their websites.
+            A product calculator to help customers find the right product for their needs. With a white label
+            functionality to make it usable for wholesalers/customers and embed it on their websites.
           </p>
         </div>
       </div>
@@ -105,6 +111,7 @@ a.project-link {
   color: #ffb800;
   transition: all 0.4s;
 }
+
 a:hover.project-link {
   transition: all 0.4s;
   text-shadow: 2px 2px 8px #ffb800;
